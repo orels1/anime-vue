@@ -1,0 +1,18 @@
+{
+  "name": "anime-server",
+  "version": "1.0.0",
+  "description": "server to serve the anime",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "orels1",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
